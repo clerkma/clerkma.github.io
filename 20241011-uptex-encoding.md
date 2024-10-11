@@ -16,7 +16,7 @@
   * `((uvs - 0xFE00) << 18) + 0x400000 + ucv`
 * BMP + [VS17 ~ VS256]
   * `(?P<ucv>[\u0000-\uFFFF])(?P<uvs>[\uE0100-\uE01EF])`
-  * ` ((uvs - 0xE0100) << 18) + 0x800000 + ucv`
+  * `((uvs - 0xE0100) << 18) + 0x800000 + ucv`
 * SIP + [VS17 ~ VS32]
   * `(?P<ucv>[\u10000-\u2FFFF])(?P<uvs>[\uE0100-\uE010F])`
   * `((uvs - 0xE0100) << 18) + 0x800000 + ucv`
