@@ -11,4 +11,6 @@
 * [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML)
 * [OMML](https://learn.microsoft.com/en-us/archive/blogs/murrays/mathml-and-ecma-math-omml)
 * LuaTeX/XeTeX [unicode-math](https://ctan.org/pkg/unicode-math)
-* PEG Parser [UnicodeMathML](https://github.com/doersino/UnicodeMathML)
+* Plurimath (Ruby/JavaScript): [Plurimath](https://www.plurimath.org/)
+* UnicodeMathML (JavaScript/PEG Parser): [UnicodeMathML](https://github.com/doersino/UnicodeMathML)
+
