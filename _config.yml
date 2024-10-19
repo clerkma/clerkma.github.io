@@ -1,6 +1,6 @@
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
 title: 不常更新的排版技术笔记（极简版）
 description: 外行经验（高血糖危象后恢复中）
