@@ -15,3 +15,4 @@
 * 20250606 [排版技术笔记（集合版）](20250606-note)[最后更新：2025/07/19]
 * 20250720 [排版的文本测试](20250720-typography-bible)
 * 20250803 [古典语言和排版](20250803-classic-language-and-typography)
+* 20250822 [Unicode的支持](20250822-unicode-support)
