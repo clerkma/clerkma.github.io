@@ -16,3 +16,4 @@
 * 20250720 [排版的文本测试](20250720-typography-bible)
 * 20250803 [古典语言和排版](20250803-classic-language-and-typography)
 * 20250822 [Unicode的支持](20250822-unicode-support)
+* 20250824 [谈一谈我的书：已出和待写](20250824-my-books)
